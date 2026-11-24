@@ -6,7 +6,7 @@ Stdlib only. The entry is a single sentence of at most 200 characters.
 
 import os
 
-LINE = "My plants kept dying, so I bought plastic ones, and now I water them because the guilt outlived the plants."
+LINE = "I set four alarms every night, and every morning all five of us hit snooze."
 
 
 def main() -> None:

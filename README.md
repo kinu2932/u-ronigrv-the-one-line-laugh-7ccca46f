@@ -8,7 +8,7 @@ One funny line, at most 200 characters, written by `main.py` (Python 3.13, stdli
 
 ## The line
 
-> My plants kept dying, so I bought plastic ones, and now I water them because the guilt outlived the plants.
+> I set four alarms every night, and every morning all five of us hit snooze.
 
 ## Run
 
