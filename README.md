@@ -8,7 +8,7 @@ One funny line, at most 200 characters, written by `main.py` (Python 3.13, stdli
 
 ## The line
 
-> I replaced my dead plants with plastic ones, and I still water them, just in case the neighbours are watching.
+> My plants kept dying, so I bought plastic ones, and now I water them because the guilt outlived the plants.
 
 ## Run
 
